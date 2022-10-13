@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: "167057a5-2fad-41d2-8cfb-f6bd5f816ed0"
+      url: "https://shaumik-ashraf.github.io/balloon-defense"
