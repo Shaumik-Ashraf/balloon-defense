@@ -1,0 +1,14 @@
+{
+  "hash": "448a2c82179bdf31e7535f92edc382c7",
+  "result": {
+    "markdown": "---\ntitle: \"balloon-defense\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n42\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 42\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
