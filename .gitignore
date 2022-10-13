@@ -1,3 +1,6 @@
+## Allow
+!_publish.yml
+
 ## Quarto
 _site/
 .quarto/

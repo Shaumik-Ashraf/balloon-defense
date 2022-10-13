@@ -19,4 +19,3 @@ format:
 # This is required for CI & Pages deployment
 execute:
   freeze: auto
-
