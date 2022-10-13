@@ -15,5 +15,8 @@ format:
     css: styles.css
     toc: true
 
-
+# Only compute R/Python lines on `quarto render`
+# This is required for CI & Pages deployment
+execute:
+  freeze: auto
 
